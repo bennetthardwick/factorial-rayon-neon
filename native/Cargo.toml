@@ -1,5 +1,5 @@
 [package]
-name = "fibonacci-rayon-neon"
+name = "factorial-rayon-neon"
 version = "0.1.0"
 authors = ["Bennett Hardwick <me@bennetthardwick.com>"]
 license = "MIT"
@@ -7,7 +7,7 @@ build = "build.rs"
 exclude = ["artifacts.json", "index.node"]
 
 [lib]
-name = "fibonacci_rayon_neon"
+name = "factorial_rayon_neon"
 crate-type = ["cdylib"]
 
 [build-dependencies]

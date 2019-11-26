@@ -74,7 +74,7 @@ version = "1.5.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
 [[package]]
-name = "fibonacci-rayon-neon"
+name = "factorial-rayon-neon"
 version = "0.1.0"
 dependencies = [
  "neon 0.3.3 (registry+https://github.com/rust-lang/crates.io-index)",

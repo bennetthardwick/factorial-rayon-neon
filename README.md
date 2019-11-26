@@ -1,3 +1,3 @@
-# fibonacci-rayon-neon
+# factorial-rayon-neon
 
 
